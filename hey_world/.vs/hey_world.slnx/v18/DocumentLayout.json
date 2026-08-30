@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jotar\\Desktop\\git-testerooni\\hey_world\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2271098E-4032-4641-85CB-C9490CDF7B42}|hey_world\\hey_world.vcxproj|C:\\Users\\jotar\\Desktop\\git-testerooni\\hey_world\\hey_world\\hey_world.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2271098E-4032-4641-85CB-C9490CDF7B42}|hey_world\\hey_world.vcxproj|solutionrelative:hey_world\\hey_world.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hey_world.cpp",
+              "DocumentMoniker": "C:\\Users\\jotar\\Desktop\\git-testerooni\\hey_world\\hey_world\\hey_world.cpp",
+              "RelativeDocumentMoniker": "hey_world\\hey_world.cpp",
+              "ToolTip": "C:\\Users\\jotar\\Desktop\\git-testerooni\\hey_world\\hey_world\\hey_world.cpp",
+              "RelativeToolTip": "hey_world\\hey_world.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-08-30T22:18:37.402Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
